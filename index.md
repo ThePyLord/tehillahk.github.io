@@ -20,6 +20,9 @@ email: tehillahkangamba@Gmail.com
 
 #### Synthex (December 2019-Present)
 ##### Role: Web Developer/Mobile Developer
--- Synthex serves as a subsiduary of Klutch clothing . I serve a dual role as a mobile developer and web developer .My duties range from Web hosting ,mobile front end development and rapid prototyping of all web applications.
+- Synthex serves as a subsiduary of Klutch clothing . I serve a dual role as a mobile developer and web developer .My duties range from Web hosting ,mobile front end development and rapid prototyping of all web applications.
 
+#### Quasar Technotron (September 2020 -Present)
+##### Role: Web Developer
+-- This a Zambian software company where I carry out my duties online . At quasar my duties involve coordinating with customers over Zoom and Whatsapp calls . I develop Web ablications with Angular Js and Bootstrap as my primary CSS framework.
 
