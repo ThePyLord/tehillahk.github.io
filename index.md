@@ -12,9 +12,9 @@ email: tehillahkangamba@Gmail.com
 | C++| XCode |
 
 ### Education
-- University of Manitoba
-  Bachelor of Science in Computer Science
-  Expected Graduation : Summer 2022
+### - University of Manitoba
+###  Bachelor of Science in Computer Science
+###  Expected Graduation : Summer 2022
 
 ### Work Experience
 
