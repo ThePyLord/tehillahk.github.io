@@ -4,7 +4,10 @@ phone number:204 XXX XXX
 email: tehillahkangamba@Gmail.com
 
 ### Technical Skills
--Java -HTML/CSS -Bootstrap -Python
+-Java 
+-HTML/CSS 
+-Bootstrap 
+-Python
 
 ### Education
 University of Manitoba
