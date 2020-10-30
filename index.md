@@ -24,5 +24,5 @@ email: tehillahkangamba@Gmail.com
 
 #### Quasar Technotron (September 2020 -Present)
 ##### Role: Web Developer
--- This a Zambian software company where I carry out my duties online . At quasar my duties involve coordinating with customers over Zoom and Whatsapp calls . I develop Web ablications with Angular Js and Bootstrap as my primary CSS framework.
+- This is a Zambian software company where I carry out my duties online . At quasar my duties involve coordinating with customers over Zoom and Whatsapp calls . I develop Web ablications with Angular Js and Bootstrap as my primary CSS framework.
 
