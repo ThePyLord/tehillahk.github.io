@@ -13,8 +13,8 @@ email: tehillahkangamba@Gmail.com
 
 ### Education
 - University of Manitoba
-- Bachelor of Science in Computer Science
-- Expected Graduation : Summer 2022
+  Bachelor of Science in Computer Science
+  Expected Graduation : Summer 2022
 
 ### Work Experience
 
