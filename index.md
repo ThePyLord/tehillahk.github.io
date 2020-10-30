@@ -4,13 +4,13 @@ phone number:204 XXX XXX
 email: tehillahkangamba@Gmail.com
 
 ### Technical Skills
-| Programming languages | Frameworks/Enviroments |
-|:-----------:|:-----------:|
-| Python3 | .Net |
-| Java | Bootstrap |
-| Node.js | JetBrains |
-| C++| XCode |
-
+| Programming languages 	| Frameworks/Environments 	|
+|-----------------------	|-------------------------	|
+| Python3               	| JetBrains               	|
+| NodeJs                	| XCode                   	|
+| Java                  	| AngularJs               	|
+| C#                    	| Bootstrap               	|
+| C++                   	| .Net                    	|
 ### Education
 #### - University of Manitoba
   Bachelor of Science in Computer Science
