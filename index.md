@@ -5,7 +5,7 @@ email: tehillahkangamba@Gmail.com
 
 ### Technical Skills
 | Programming languages | Frameworks/Enviroments |
-|:--- :| :-----------: |
+|:-----------:|:-----------:|
 | Python3 | .Net |
 | Java | Bootstrap |
 | Node.js | JetBrains |
