@@ -1,6 +1,6 @@
 # How to write a resume in Markdown
 ## Introduction
-Welcome to the exciting world of markdown . My task with this readMe is to hopefully teach you how to write your resume in markdown .You might be wondering why you need to write your resume in markdown and host it on a website . It helps show your technical prowess with newer web technologies and also details on your work experience and skill set as a developer.
+Welcome to the exciting world of markdown . My task with this readMe is to hopefully teach you how to write your resume in markdown .You might be wondering why you need to write your resume in markdown and host it on a website . It helps show your technical prowess with newer web technologies and also details on your work experience and skill set as a developer. Our choice to use Markdown instead of other markup languages is based on it being fairly light weight and in my opinion easy to pick up
 
 ## Why you need to Host the Resume
 As physical media is growing outdated as time passes ,so are digital files like PDF and word documents. This files tend to sit on harddrives for years and risk getting corrupted ,deleted or simply to outdated for use. Hosting files online through a website elimates the possibility because its in a place where you can not lose it and could easily be produced upon request .
