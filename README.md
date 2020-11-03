@@ -24,3 +24,5 @@ Github is a collaborative site which is mostly used for software development . N
 		src="https://media.giphy.com/media/SbyfT7ldqp3115owMN/giphy.gif">
 		
  Create a public github repo in the format of your userName@github.io .In order for the github pages to integrate the site.
+ 
+ ### 2.  Create an index.md file
