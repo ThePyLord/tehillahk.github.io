@@ -17,7 +17,9 @@ As physical media is growing outdated as time passes ,so are digital files like 
 Github is a collaborative site which is mostly used for software development . No one knows everything and about a programming or even a markup language like Markdown or the complexities of Jekyll . Jekyll will be used to style the websites and give it themes and change how it the Markdown file is presented on screen.This is similar to CSS in the case of HTML files . This hopefully will increase the quality of your resume and other projects you might use github or github pages for.
 
 ## How we do it?
-### 1.  Create a public github repository 
+### 1.  Create an index.md file 
+Use an editor of your choice for this but for the purposes I will assume you are using VSCode to build your resume.
+### 2.  Create a public github repository 
 <img
 		width="500px"
 		alt="The Lounge"
@@ -25,4 +27,4 @@ Github is a collaborative site which is mostly used for software development . N
 		
  Create a public github repo in the format of your userName@github.io .In order for the github pages to integrate the site.
  
- ### 2.  Create an index.md file
+ ### 3.  Upload the index.md file
