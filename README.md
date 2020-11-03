@@ -19,6 +19,8 @@ Github is a collaborative site which is mostly used for software development . N
 ## How we do it
 ### 1.  Create a public github repository 
 <img
-		width="300"
+		width="500px"
 		alt="The Lounge"
 		src="https://media.giphy.com/media/SbyfT7ldqp3115owMN/giphy.gif">
+		
+ Create a public github repo in the format of your userName@github.io .In order for the github pages to integrate the site.
