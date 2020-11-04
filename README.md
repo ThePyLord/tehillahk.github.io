@@ -54,7 +54,7 @@ Like in the picture above click on add file and upload your index file.
 	
   When you have choosen your theme it will create a yaml file into your repository.
   ### 6.Done!
-  At this point you are done and have generated your first static genearted site with github pages . Now you can your resume to all potential employers and dazzle them with your experience and skill as a developer.
+  At this point you are done and have generated your first static genearted site with github pages . Now you can show your resume to all potential employers and dazzle them with your experience and skill as a developer. 
  
  ## FAQ'S
  1. Why is Markdown better than a Word processor?
