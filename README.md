@@ -18,7 +18,7 @@ Github is a collaborative site which is mostly used for software development . N
 
 ## How we do it?
 ### 1.  Create an index.md file 
-Use an editor of your choice for this but for the purposes I will assume you are using VSCode to build your resume.
+Use an editor of your choice for this but for the purposes of this read me I will assume you are using VSCode to build your resume.
 ### 2.  Create a public github repository 
 <img
 		width="500px"
