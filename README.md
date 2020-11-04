@@ -28,4 +28,6 @@ Use an editor of your choice for this but for the purposes of this read me I wil
  Create a public github repo in the format of your userName@github.io .Look at the image above for reference.In order for the github pages to integrate the site.
  
  ### 3.  Upload the index.md file
- 
+ <img 
+ 	width="500px"
+ 	src="https://media.giphy.com/media/6Q33y3XIx0RA20rStR/giphy.gif">
