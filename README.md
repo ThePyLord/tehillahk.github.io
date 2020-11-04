@@ -17,9 +17,9 @@ As physical media is growing outdated as time passes ,so are digital files like 
 Github is a collaborative site which is mostly used for software development . No one knows everything and about a programming or even a markup language like Markdown or the complexities of Jekyll . Jekyll will be used to style the websites and give it themes and change how it the Markdown file is presented on screen.This is similar to CSS in the case of HTML files . This hopefully will increase the quality of your resume and other projects you might use github or github pages for.
 
 ## How we do it?
-### 1.  Create an index.md file 
+### 1. Create an index.md file 
 Use an editor of your choice for this but for the purposes of this read me I will assume you are using VSCode to build your resume.
-### 2.  Create a public github repository 
+### 2. Create a public github repository 
 <img
 		width="500px"
 		alt="The Lounge"
@@ -27,7 +27,7 @@ Use an editor of your choice for this but for the purposes of this read me I wil
 		
  Create a public github repo in the format of your userName@github.io .Look at the image above for reference.In order for the github pages to integrate the site.
  
- ### 3.  Upload the index.md file
+ ### 3. Upload the index.md file
  <img
 		width="500px"
 		alt="The Lounge"
@@ -35,7 +35,7 @@ Use an editor of your choice for this but for the purposes of this read me I wil
  
 Like in the picture above click on add file and upload your index file.
  
-  ### 4.  Activate your github pages
+  ### 4. Activate your github pages
  
  <img 
  	width="500px"
@@ -45,7 +45,9 @@ Like in the picture above click on add file and upload your index file.
   
   ### 5.Styling your website
   After confirming the site has been created ,it is time to give it a little visual flare with the themes github provides on their platform. 
-  	1. Click on settings 
-	2. 
+  	
+	1. Click on settings 
+	2. Screw down to the github pages section
+	3. Under theme choose .Click on change theme and pick a theme you feel is most appropriate. I personally suggest "The Matrix" theme which is called "hack" because you can not go wrong with a matrix reference
   
  
