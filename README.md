@@ -55,3 +55,7 @@ Like in the picture above click on add file and upload your index file.
   ### 6.Done!
   At this point you are done and have generated your first static genearted site with github pages .
  
+ ## Resources
+ 
+## Authors and acknowledgements
+
