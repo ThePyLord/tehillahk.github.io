@@ -56,8 +56,8 @@ Like in the picture above click on add file and upload your index file.
   At this point you are done and have generated your first static genearted site with github pages .
  
  ## More Resources
- 1. If you are still strugglling with Markdown .Here is a more interactive tutorial.[tutorial](https://www.markdowntutorial.com)
- 
+ 1. If you are still strugglling with Markdown .Here is a more interactive tutorial.[click here for tutorial](https://www.markdowntutorial.com)
+ 2. Modern Technical Writing: An Introduction to Software Documentation. [Amazaon link](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 ## Authors and acknowledgements
 I'd like to thank my group members Evan Marshall ,Seughwan Youn and  Prabhanshu Shrivastava. We had interesting moments exploring git pages and its implications.I also thank Andrew Etter for his book Modern Technical Writing which gave me a more indepth persperctive of github.
 
