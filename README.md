@@ -25,6 +25,7 @@ Use an editor of your choice for this but for the purposes of this read me I wil
 		alt="The Lounge"
 		src="https://media.giphy.com/media/SbyfT7ldqp3115owMN/giphy.gif">
 		
- Create a public github repo in the format of your userName@github.io .In order for the github pages to integrate the site.
+ Create a public github repo in the format of your userName@github.io .Look at the image above for reference.In order for the github pages to integrate the site.
  
  ### 3.  Upload the index.md file
+ 
