@@ -6,11 +6,11 @@ email: tehillahkangamba@Gmail.com
 ### Technical Skills
  Programming languages 	Frameworks/Environments 	
 
- Python3               	 JetBrains               	
- NodeJs                	 XCode                   	
- Java                  	 AngularJs               	
- C#                    	 Bootstrap               	
- C++                   	 .Net                    	
+ - Python3               	- JetBrains               	
+ - NodeJs                 -	 XCode                   	
+ - Java                  	- AngularJs               	
+ - C#                    -	 Bootstrap               	
+ C++                   	 - .Net                    	
 ### Education
 #### - University of Manitoba
   Bachelor of Science in Computer Science
