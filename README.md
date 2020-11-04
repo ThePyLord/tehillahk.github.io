@@ -7,7 +7,7 @@ As physical media is growing outdated as time passes ,so are digital files like 
 
 ## Prerequisites 
 1. Learn the Markdown syntax
-  - What you Markdown is (https://www.markdownguide.org/getting-started)
+  - What Markdown is (https://www.markdownguide.org/getting-started)
   - How to write in Markdown (https://www.markdownguide.org/basic-syntax)
 2. Install a Markdown editor. I strongly recommend VSCode (https://code.visualstudio.com/download) but here is a list of other options you might like https://www.oberlo.ca/blog/markdown-editors .These editors will you run the program locally
 3. A github account and familiarity with github web.
@@ -44,5 +44,8 @@ Like in the picture above click on add file and upload your index file.
   Click on Settings and scroll down to the section that says Github pages and under source click on the dropdown that says none and select your main branch.The advantage of this is that it will generate a static site for you which is much simpler than making a static site the traditional way. Its easy to update the information of your site because you only have to edit the markdown .
   
   ### 5.Styling your website
-  After confirming the site has been created
+  After confirming the site has been created ,it is time to give it a little visual flare with the themes github provides on their platform. 
+  	1. Click on settings 
+	2. 
+  
  
