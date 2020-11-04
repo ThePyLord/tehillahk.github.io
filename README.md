@@ -57,9 +57,14 @@ Like in the picture above click on add file and upload your index file.
  
  ## FAQ'S
  1. Why is Markdown better than a word processor?
- 
+ - Markdown is widely used light weight mark up language and could be rendered with most systems to create documentations for a wide array of application software.
+ - 
  2. Why is my resume not showing up?
  
+ - Do not panic! even the greatest developers encounter bugs . Here are possible issues
+ 	1. You do not have an index.md file.
+	2. you have not chosen the right branch for github pages
+	3. Your index file might have no text in it.
  ## More Resources
  1. If you are still strugglling with Markdown .Here is a more interactive tutorial.[click here for tutorial](https://www.markdowntutorial.com)
  2. Modern Technical Writing: An Introduction to Software Documentation. [Amazaon link](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
