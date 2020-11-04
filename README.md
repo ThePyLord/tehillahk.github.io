@@ -32,6 +32,7 @@ Use an editor of your choice for this but for the purposes of this read me I wil
 		width="500px"
 		alt="The Lounge"
 		src="https://media.giphy.com/media/6Q33y3XIx0RA20rStR/giphy.gif">
+ 
  Click on add file on your github repository.
  
   ### 4.  Activate your github pages
