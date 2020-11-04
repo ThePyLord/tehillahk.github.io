@@ -57,5 +57,7 @@ Like in the picture above click on add file and upload your index file.
  
  ## Resources
  
+ 
 ## Authors and acknowledgements
+I'd like to thank my group members Evan Marshall ,Seughwan Youn and  Prabhanshu Shrivastava. We had interesting moments exploring git pages and its implications.I also thank Andrew Etter for his book Modern Technical Writing which gave me a more indepth persperctive of github.
 
