@@ -41,7 +41,7 @@ Like in the picture above click on add file and upload your index file.
  	width="500px"
 	src="https://media.giphy.com/media/BSpqCkJeknJkCBTTOb/giphy.gif">
   
-  Click on Settings and scroll down to the section that says Github pages and under source click on the dropdown that says none and select your main branch.The advantage of this is that it will generate a static site for you which is much simpler than making a static site the traditional way. Its easy to update the information of your site because you only have to edit the markdown .
+  Click on Settings and scroll down to the section that says Github pages and under source click on the dropdown that has text "none" and select your main branch.The advantage of this ,is that it will generate a static site for you which is much simpler than making a static site the traditional way. Its easy to update the information of your site because you only have to edit the markdown .
   
   ### 5.Styling your website
   After confirming the site has been created ,it is time to give it a little visual flare with the themes github provides on their platform. 
