@@ -31,3 +31,4 @@ Use an editor of your choice for this but for the purposes of this read me I wil
  <img 
  	width="500px"
  	src="https://media.giphy.com/media/6Q33y3XIx0RA20rStR/giphy.gif">
+Like in the picture above click on add file and your index.md file.
