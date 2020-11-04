@@ -48,8 +48,6 @@ Like in the picture above click on add file and upload your index file.
   	
 	1. Click on settings 
 	2. Screw down to the github pages section
-	3. Under theme choose .Click on change theme and pick a theme you feel is most appropriate. 
-	I personally suggest "The Matrix" theme which is called "hack" because you can not go wrong 
-	with a matrix reference
+	3. Under theme choose .Click on change theme and pick a theme you feel is most appropriate. I personally suggest "The Matrix" theme which is called "hack" because you can not go wrong with a matrix reference
   
  
