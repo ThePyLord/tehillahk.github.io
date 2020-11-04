@@ -56,7 +56,7 @@ Like in the picture above click on add file and upload your index file.
   At this point you are done and have generated your first static genearted site with github pages . Now you can your resume to all potential employers and dazzle them with your experience and skill as a developer.
  
  ## FAQ'S
- 1.Why is Markdown better than a word processor?
+ 1. Why is Markdown better than a word processor?
  
  2. Why is my resume not showing up?
  
