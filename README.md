@@ -14,7 +14,8 @@ As physical media is growing outdated as time passes ,so are digital files like 
 
 
 ## The purpose of using GitHub Pages
-Github is a collaborative site which is mostly used for software development . No one knows everything and about a programming or even a markup language like Markdown or the complexities of Jekyll . Jekyll will be used to style the websites and give it themes and change how it the Markdown file is presented on screen.This is similar to CSS in the case of HTML files . This hopefully will increase the quality of your resume and other projects you might use github or github pages for. Jekyll also helps generate your static site without the hustle of hosting it yourself and working with a server like AWS or my personal favourite google firebase hosting.
+Github is a collaborative site which is mostly used for software development . No one knows everything and about a programming or even a markup language like Markdown or the complexities of Jekyll . Jekyll will be used to style the websites and give it themes and change how it the Markdown file is presented on screen.This is similar to CSS in the case of HTML files . This hopefully will increase the quality of your resume and other projects you might use github or github pages for.
+
 ## How we do it?
 ### 1.  Create an index.md file 
 Use an editor of your choice for this but for the purposes of this read me I will assume you are using VSCode to build your resume.
@@ -40,5 +41,5 @@ Like in the picture above click on add file and upload your index file.
  	width="500px"
 	src="https://media.giphy.com/media/BSpqCkJeknJkCBTTOb/giphy.gif">
   
-  Click on Settings and scroll down to the section that says Github pages and under source click on the dropdown that says none and select your main branch.Then confirm it exists by copy pasting your repository name into your url and checking your static site to confirm its has been built.
+  Click on Settings and scroll down to the section that says Github pages and under source click on the dropdown that says none and select your main branch.The advantage of this is that it will generate a static site for you which is much simpler than making a static site the traditional way. Its easy to update the information of your site because you only have to edit the markdown .
  
