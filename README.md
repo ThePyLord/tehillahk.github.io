@@ -57,8 +57,9 @@ Like in the picture above click on add file and upload your index file.
  
  ## FAQ'S
  1. Why is Markdown better than a Word processor?
- - Markdown is widely used light weight mark up language and could be rendered with most systems to create documentations for a wide array of application software.
+ - Markdown is a widely used light weight mark up language and could be rendered with most systems to create documentations for a wide array of application software.
  - You could lose the documents made by the Word processor files or they could get corrupted but since most Markdown  are distributed and viewed via websites this wouldnt be an issue
+ - It is not easy to integarate none Markdown files into most documentations.
  
  2. Why is my resume not showing up?
  
@@ -70,5 +71,5 @@ Like in the picture above click on add file and upload your index file.
  1. If you are still strugglling with Markdown .Here is a more interactive tutorial.[click here for tutorial](https://www.markdowntutorial.com)
  2. Modern Technical Writing: An Introduction to Software Documentation. [Amazaon link](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 ## Authors and acknowledgements
-I'd like to thank my group members Evan Marshall ,Seughwan Youn and  Prabhanshu Shrivastava. We had interesting moments exploring git pages and its implications.I also thank Andrew Etter for his book Modern Technical Writing which gave me a more indepth persperctive of github.
+I'd like to thank my group members Evan Marshall ,Seughwan Youn and  Prabhanshu Shrivastava. We had a great time exploring git pages and its implications.If I had to do it all over again ,I'd like to do it with these gentlemen .I also thank Andrew Etter for his book Modern Technical Writing which gave me a more indepth persperctive of github.
 
