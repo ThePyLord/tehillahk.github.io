@@ -41,5 +41,5 @@ Like in the picture above click on add file and upload your index file.
  	width="500px"
 	src="https://media.giphy.com/media/BSpqCkJeknJkCBTTOb/giphy.gif">
   
-  Click on Settings and scroll down to the section that says Github pages and under source click on the dropdown that says none and select your main branch.Then confirm it exists by copy pasting your repository name into your url and checking your static site.
+  Click on Settings and scroll down to the section that says Github pages and under source click on the dropdown that says none and select your main branch.Then confirm it exists by copy pasting your repository name into your url and checking your static site to confirm its has been built.
  
