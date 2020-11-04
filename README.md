@@ -7,9 +7,9 @@ As physical media is growing outdated as time passes ,so are digital files like 
 
 ## Prerequisites 
 1. Learn the Markdown syntax
-  - What Markdown is (https://www.markdownguide.org/getting-started)
-  - How to write in Markdown (https://www.markdownguide.org/basic-syntax)
-2. Install a Markdown editor. I strongly recommend VSCode (https://code.visualstudio.com/download) but here is a list of other options you might like https://www.oberlo.ca/blog/markdown-editors .These editors will you run the program locally
+  - What Markdown is? [learn more](https://www.markdownguide.org/getting-started)
+  - How to write in Markdown? [click here to see syntax](https://www.markdownguide.org/basic-syntax)
+2. Install a Markdown editor. I strongly recommend [VSCode] (https://code.visualstudio.com/download) but here is a list of other options you might like [other editors](https://www.oberlo.ca/blog/markdown-editors) .These editors will you run the program locally
 3. A github account and familiarity with github web.
 
 
@@ -55,8 +55,8 @@ Like in the picture above click on add file and upload your index file.
   ### 6.Done!
   At this point you are done and have generated your first static genearted site with github pages .
  
- ## Resources
- 
+ ## More Resources
+ 1. If you are still strugglling with Markdown .Here is a more interactive tutorial.[tutorial] (https://www.markdowntutorial.com)
  
 ## Authors and acknowledgements
 I'd like to thank my group members Evan Marshall ,Seughwan Youn and  Prabhanshu Shrivastava. We had interesting moments exploring git pages and its implications.I also thank Andrew Etter for his book Modern Technical Writing which gave me a more indepth persperctive of github.
