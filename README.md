@@ -46,8 +46,12 @@ Like in the picture above click on add file and upload your index file.
   ### 5.Styling your website
   After confirming the site has been created ,it is time to give it a little visual flare with the themes github provides on their platform. 
   	
-	1. Click on settings 
-	2. Screw down to the github pages section
-	3. Under theme choose .Click on change theme and pick a theme you feel is most appropriate. I personally suggest "The Matrix" theme which is called "hack" because you can not go wrong with a matrix reference
+	1. Click on settings.
+	2. Screw down to the github pages section.
+	3. Under theme choose .Click on change theme 
+	and pick a theme you feel is most appropriate. 
+	I personally suggest "The Matrix" theme which 
+	is called "hack" because you can not go wrong 
+	with a matrix reference.
   
  
