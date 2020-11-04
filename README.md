@@ -32,9 +32,9 @@ Use an editor of your choice for this but for the purposes of this read me I wil
  Click on add file on your github repository.
  
   ### 4.  Activate your github pages
-  Click on Settings and scroll down to the section that says Github pages and under source click on the dropdown that says none and select your main branch.
+ 
  <img 
  	width="500px"
 	src="https://media.giphy.com/media/BSpqCkJeknJkCBTTOb/giphy.gif" >
- 		
+  Click on Settings and scroll down to the section that says Github pages and under source click on the dropdown that says none and select your main branch.
  
