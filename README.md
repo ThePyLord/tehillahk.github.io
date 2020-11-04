@@ -14,7 +14,7 @@ As physical media is growing outdated as time passes ,so are digital files like 
 
 
 ## The purpose of using GitHub Pages
-Github is a collaborative site which is mostly used for software development . No one knows everything and about a programming or even a markup language like Markdown or the complexities of Jekyll . Jekyll will be used to style the websites and give it themes and change how it the Markdown file is presented on screen.This is similar to CSS in the case of HTML files . This hopefully will increase the quality of your resume and other projects you might use github or github pages for.
+Github is a collaborative site which is mostly used for software development . No one knows everything and about a programming or even a markup language like Markdown or the complexities of Jekyll . Jekyll will be used to style the websites and give it themes and change how it the Markdown file is presented on screen.This is similar to CSS in the case of HTML files . This hopefully will increase the quality of your resume and other projects you might use github or github pages for. Github is also a version of Distributed version control, which is a big plus for us as developers and for this resume project we are about to embark on.Think of Github as a time machine for our project . You can look at previous additions and removals that occured in your source files. Tracking you work can help you reverse mistakes you have made and easily restore your project to a point where that error did not exist.
 
 ## How we do it?
 ### 1. Create an index.md file 
