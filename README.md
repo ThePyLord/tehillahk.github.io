@@ -3,7 +3,7 @@
 Welcome to the exciting world of markdown . My task with this readMe is to hopefully teach you how to write your resume in markdown .You might be wondering why you need to write your resume in markdown and host it on a website . It helps show your technical prowess with newer web technologies and also details on your work experience and skill set as a developer. Our choice to use Markdown instead of other markup languages is based on it being fairly light weight and in my opinion easy to pick up
 
 ## Why you need to Host the Resume
-As physical media is growing outdated as time passes ,so are digital files like PDF and word documents. This files tend to sit on harddrives for years and risk getting corrupted ,deleted or simply to outdated for use. Hosting files online through a website elimates the possibility because its in a place where you can not lose it and could easily be produced upon request .
+Physical media is becoming outdated as time passes and so are locally stored digital files like PDF's and word documents. These files tend to sit on harddrives for years and risk getting corrupted ,deleted or simply to outdated for use. Hosting files online through a website elimates the possibility because its in a place where you can never lose it and could easily be produced upon request . Like if you are on a trip outside town and see a once in a lifetime job opportunity and you never thought to carry digital or physical version of your resume.
 
 ## Prerequisites 
 1. Learn the Markdown syntax
@@ -52,6 +52,7 @@ Like in the picture above click on add file and upload your index file.
 	I personally suggest "The Matrix" theme which is called "hack" because you can not go wrong 
 	with a matrix reference.
 	
+  When you have choosen your theme it will create a yaml file into your repository.
   ### 6.Done!
   At this point you are done and have generated your first static genearted site with github pages . Now you can your resume to all potential employers and dazzle them with your experience and skill as a developer.
  
