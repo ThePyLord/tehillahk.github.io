@@ -33,7 +33,7 @@ Use an editor of your choice for this but for the purposes of this read me I wil
 		alt="The Lounge"
 		src="https://media.giphy.com/media/6Q33y3XIx0RA20rStR/giphy.gif">
  
- Click on add file on your github repository.
+Like in the picture above click on add file and upload your index file.
  
   ### 4.  Activate your github pages
  
