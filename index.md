@@ -12,9 +12,9 @@ e-mail: tehillahkangamba@gmail.com
  - C\#                                  	
  - C++                   	   
  - JetBrains 
- -	 XCode   
+ -	XCode   
  - AngularJs
- - .Net  
+ - .NET  
 ### Education
 #### - University of Manitoba
   Bachelor of Science in Computer Science
